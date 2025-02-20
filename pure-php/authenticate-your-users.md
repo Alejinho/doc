@@ -57,7 +57,7 @@ For usernameless authentication, please read the [dedicated page](advanced-behav
 {% endhint %}
 
 {% hint style="danger" %}
-To prevent username enumeration, when the authentication process is performed using the username, it is highly recommended to continue the ceremony even is the user entity does not exist. The allowad credential list should be set with random data.
+To prevent username enumeration, when the authentication process is performed using the username, it is highly recommended to continue the ceremony even if the user entity does not exist. The allowed credential list should be set with random data.
 {% endhint %}
 
 ### Example
